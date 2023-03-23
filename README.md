@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas pereira 🖐️
+## Olá! Eu sou o Lucas Pereira 🖐️
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasdevaprender&show_icons=true&theme=dracula&count_private=true)
 
